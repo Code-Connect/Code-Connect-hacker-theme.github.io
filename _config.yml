@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: CodeConnect
+description: Learn Programming by Working on Mentored Real World Projects
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
